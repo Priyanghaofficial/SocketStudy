@@ -80,10 +80,11 @@ s.send("acknowledgement recived from the server".encode())
 ```
 ## Output:
 CLIENT:
-![Uploading image.png…]()
+![image](https://github.com/Priyanghaofficial/SocketStudy/assets/147121154/2ffe90f0-a650-4311-bb11-f0a950531e97)
 
 SERVER:
-![Uploading image.png…]()
+![image](https://github.com/Priyanghaofficial/SocketStudy/assets/147121154/0f003b91-576a-41da-a826-53ff946734e2)
+
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
