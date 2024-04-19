@@ -82,7 +82,7 @@ s.send("acknowledgement recived from the server".encode())
 CLIENT:
 
 
-![image](https://github.com/Priyanghaofficial/SocketStudy/assets/147121154/2ffe90f0-a650-4311-bb11-f0a950531e97)
+![image](https://github.com/Priyanghaofficial/SocketStudy/assets/147121154/8244a906-430a-441e-a1a2-8d50dd6583e0)
 
 SERVER:
 
