@@ -88,7 +88,7 @@ SERVER:
 
 
 
-![image](https://github.com/Priyanghaofficial/SocketStudy/assets/147121154/0f003b91-576a-41da-a826-53ff946734e2)
+![image](https://github.com/Priyanghaofficial/SocketStudy/assets/147121154/a0da3bc3-f40b-4c33-aed4-b88632a8349b)
 
 
 ## Result:
